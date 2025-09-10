@@ -1,11 +1,10 @@
 ## Ayee there 😸
 <!-- Aurora Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" alt="Aurora Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Aurora Banner" width="100%"/>
 </p>
 
 <!-- Title -->
-<h1 align="center">✨ Welcome to My Universe ✨</h1>
 <h3 align="center">Crafting Data, Code, and Creativity 🌌</h3>
 
 ---
@@ -49,9 +48,16 @@
 ## 🌌 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sarthak-chouhan-b77a81318/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="sarthak.chouhan.01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+       alt="LeetCode"
+       width="48" height="48"
+       style="background-color:white; padding:6px; border-radius:10px;"/>
+</a>
+
 </p>
 
 ---
