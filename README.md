@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40ade566-79cc-438e-ac23-3199d4bc7022" alt="banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/641132b3-b0f7-414d-98b9-410ea36d1fb7
+" alt="banner" width="100%"/>
 </p>
+
+
 ### Sorry for the dad jokes. Not sorry actually, SUFFER!!!!
 <br>
 <div align="right"><img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark"></div>
