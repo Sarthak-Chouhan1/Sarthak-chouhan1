@@ -1,69 +1,41 @@
-## Ayee there 😸
-<!-- Aurora Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Aurora Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/40ade566-79cc-438e-ac23-3199d4bc7022" alt="banner" width="100%"/>
 </p>
+### Sorry for the dad jokes. Not sorry actually, SUFFER!!!!
+<br>
+<div align="right"><img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark"></div>
+<br>
 
-<!-- Title -->
-<h3 align="center">Crafting Data, Code, and Creativity 🌌</h3>
+
+🌱 Data Scientist | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast  
+
+- 🔭 I’m currently working on **ML projects & Kaggle competitions**
+- 🌱 Learning **DSA, ML, and AI fundamentals**
+- 💡 Interested in **Data Analytics, AI-powered apps, Robotics**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [Email](mailto:YOUR-EMAIL)
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently exploring **Data Science | AI | Fullstack**
-- 💻 Love solving problems with **Python, SQL, and ML**
-- 🌍 On a journey to build AI-powered projects
-- ⚡ Fun fact: I love mixing **tech + art** (like this README 😉)
+### ⚡ Tech Stack
+- 💻 **Languages:** Python, SQL  
+- 📊 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- 🤖 **ML & AI:** TensorFlow, Prophet  
+- 🌐 **Other Tools:** Git, Flask  
 
 ---
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap" />
-  <br>
-  <!-- Data & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode,linux" />
-  <br>
-  <!-- ML/AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+### 📌 Featured Projects
+- [📈 Personal Finance Tracker (AI + ML)](https://github.com/YOUR-REPO)  
+- [😊 Emotion Detection from Text](https://github.com/YOUR-REPO)  
+- [🤖 Live Scene Interpreter](https://github.com/YOUR-REPO)  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
 
 ---
 
-## 🌌 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-chouhan-b77a81318/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="sarthak.chouhan.01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-       alt="LeetCode"
-       width="48" height="48"
-       style="background-color:white; padding:6px; border-radius:10px;"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="snake animation"/>
-</p>
-
-
+⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
